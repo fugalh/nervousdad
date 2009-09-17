@@ -1,3 +1,4 @@
+#!/usr/bin/ruby
 require 'curses'
 
 module Curses
